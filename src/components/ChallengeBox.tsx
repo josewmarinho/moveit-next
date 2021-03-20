@@ -5,7 +5,6 @@ import styles from '../styles/components/ChallengeBox.module.css';
 
 export function ChallengeBox() {
    const { activeChallenge, resetChallenge, completeChallenge} = useContext(ChallengesContext);
-   
    const { resetCountdown } = useContext(CountdownContext);
 
    function handleChallengeSucceeded() {
