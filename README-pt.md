@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./.github/inicial.png" alt="Moveit" width="400"/>
+   <img src="./.github/Logo.png" alt="Moveit" width="260"/>
 </p>
 
 > :rocket: Projeto feito para conectar professores e estudantes, feito na Next Level Week #4 @Rocketseat
@@ -26,6 +26,7 @@
 
 ### Web Screenshot
 <div>
+   <img src="./.github/inicial.png" width="400px">
    <img src="./.github/contador.png" width="400px">
    <img src="./.github/Finalized.png" width="400px">
    <img src="./.github/Modal.png" width="400px">
@@ -66,7 +67,7 @@ Acesse: http://localhost:3000/ para ver o resultado.
 
 # :closed_book: License
 
-Lançado em 2020 :closed_book: Licencia
+Lançado em 2021 :closed_book: Licencia
 
 Feito por [José Wellington](https://github.com/josewmarinho) 🚀.
 Esse projeto esta sobre [MIT license](./LICENSE).
