@@ -2,7 +2,7 @@
    <img src="./.github/Logo.png" alt="Moveit" width="260"/>
 </p>
 
-> :rocket: Projeto feito para conectar professores e estudantes, feito na Next Level Week #4 @Rocketseat
+> :rocket: Projeto feito para  ajudar os dev a se exercitarem, feito na Next Level Week #4 @Rocketseat
 
 <p align="center">
     <a href="README.md">English</a>
